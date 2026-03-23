@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Mar 2026 14:52:37 at https://phoneexpresskenya.co.ke/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P https://profil-960b2.web.app/ https://phoneexpresskenya.co.ke/ -O1 "C:\My Web Sites\reseller" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:53:21	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/build/assets/images/media/landing/phones.png (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/shop (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/about (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/contact (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/faq (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/terms (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/lipapolepole (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/testimonials (from https://phoneexpresskenya.co.ke/)
+14:53:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://phoneexpresskenya.co.ke/blog (from https://phoneexpresskenya.co.ke/)
+14:53:26	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/support (from https://phoneexpresskenya.co.ke/)
+14:53:55	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link 127.0.0.1:8000/build/assets/images/menu-bg-images/bg-img1.jpg (from https://phoneexpresskenya.co.ke/build/assets/app-b83ce806.css)
+14:54:09	Error: 	"Not Found" (404) at link https://phoneexpresskenya.co.ke/Images/iphone11pro.jpg (from https://phoneexpresskenya.co.ke/pricing?payment_method=lipa)
+14:54:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://phoneexpresskenya.co.ke/blog (from https://phoneexpresskenya.co.ke/)
+14:54:11	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/RemixIcons/fonts/remixicon.woff2?t=1590207869815
+14:54:15	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/bootstrap-icons/icons/font/fonts/bootstrap-icons.woff2?08efbba7c53d8c5413793eecb19b20bb
+14:54:15	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/tabler-icons/iconfont/fonts/tabler-icons.woff2
+14:54:20	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/line-awesome/1.3.0/fonts/la-brands-400.woff2
+14:54:21	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/line-awesome/1.3.0/fonts/la-regular-400.woff2
+14:54:21	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/line-awesome/1.3.0/fonts/la-solid-900.woff2
+14:54:22	Warning: 	File not parsed, looks like binary: https://phoneexpresskenya.co.ke/build/assets/icon-fonts/boxicons/fonts/boxicons.woff2
+14:54:22	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link 127.0.0.1:8000/build/assets/images/menu-bg-images/bg-img1.jpg (from https://phoneexpresskenya.co.ke/build/assets/app-b83ce806.css)
+14:54:29	Error: 	"Internal Server Error" (500) after 2 retries at link https://phoneexpresskenya.co.ke/blog (from https://phoneexpresskenya.co.ke/)
+14:54:29	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link 127.0.0.1:8000/build/assets/images/menu-bg-images/bg-img1.jpg (from https://phoneexpresskenya.co.ke/build/assets/app-b83ce806.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 179 links scanned, 162 files written (26600456 bytes overall) [18529255 bytes received at 165439 bytes/sec], 12010042 bytes transferred using HTTP compression in 68 files, ratio 31%, 22.0 requests per connection
+(12 errors, 11 warnings, 0 messages)
